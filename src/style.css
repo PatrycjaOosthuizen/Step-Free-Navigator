@@ -124,6 +124,9 @@ footer {
   }
 }
 @media only screen and (min-width: 320px) and (max-width: 540px) {
+  header {
+    padding: 33px;
+  }
   h1 {
     font-size: 20px;
   }
@@ -147,7 +150,13 @@ footer {
   img {
     width: 40%;
   }
+  .ai {
+    padding: 33px;
+  }
+
   footer {
     font-size: 13px;
+    padding: 18px;
+    margin-top: 0px;
   }
 }
