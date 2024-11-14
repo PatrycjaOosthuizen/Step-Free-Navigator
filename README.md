@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Step-Free Navigator is an AI-powered web application designed to assist users in checking the accessibility features of London Underground stations. It provides quick and concise information about step-free access, ensuring a smoother travel experience for individuals with mobility requirements.
+This is my CS50x 2024 [final project](https://cs50.harvard.edu/x/2024/project/). The Step-Free Navigator is an AI-powered web application designed to assist users in checking the accessibility features of London Underground stations. It provides quick and concise information about step-free access, ensuring a smoother travel experience for individuals with mobility requirements.
 
 ## Features
 
@@ -22,7 +22,11 @@ The Step-Free Navigator is an AI-powered web application designed to assist user
 
 ## Live Demo
 
-👀 You can try out the [Step-Free Navigator](https://your####) live.
+🔗 You can try out the [Step-Free Navigator](https://step-free-nav.netlify.app) hosted on Netlify
+
+## Video Demo
+
+👀 You can see video [Step-Free Navigator](https://your####) on my YouTube chanel.
 
 ## Benefits of Using the Step Free Navigator App
 
